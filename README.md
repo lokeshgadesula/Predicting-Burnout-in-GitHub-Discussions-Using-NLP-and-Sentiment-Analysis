@@ -35,4 +35,4 @@ This project focuses on predicting burnout in GitHub discussions by analyzing is
 ## Usage
 
 1. Prepare the dataset by converting the JSON files from the PowerToys project into a suitable format (CSV recommended).
-2. Run sentiment analysis and burnout detection scripts:
+2. Run sentiment analysis and burnout detection scripts.
