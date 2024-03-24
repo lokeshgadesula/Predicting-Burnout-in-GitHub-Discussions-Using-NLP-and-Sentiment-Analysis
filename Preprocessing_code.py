@@ -46,4 +46,4 @@ def process_json_to_csv(json_filepath, csv_filepath):
 
 # Replace 'path_to_your_large_json_file.json' with the path to your JSON file
 # The script expects a format string for csv_filepath where {} will be replaced with 'issues' or 'comments'
-process_json_to_csv('powertoys.json', 'csvfile.csv')
+process_json_to_csv('powertoys.json', 'powertoys.csv')
