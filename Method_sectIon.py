@@ -7,7 +7,7 @@ from tensorflow.keras.models import Sequential
 from tensorflow.keras.layers import Dense, Dropout
 
 # Data Preparation
-df = pd.read_csv('csvfile.csv')
+df = pd.read_csv('powertoys.csv')
 
 df['Comment_Body'] = df['Comment_Body'].astype(str)
 
